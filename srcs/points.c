@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 # include "graphy.h"
-# include "debug.h"
 
 int			num_Scale(int input, int from_min, int from_max, int to_min, int to_max)
 {
