@@ -83,6 +83,7 @@ points_create(point_arr, arr_len, some_data, sizeof(*some_data), data_to_point_f
 `void			points_adjust(t_point *points, t_graph graph, int amount, t_coordinates (*func)(t_coordinates, t_graph));`
 
 Adjusts an array of t_point to the given t_graph according to the return value of `func`
+
 **Returns:** Void
 
 ```
@@ -104,6 +105,7 @@ points_adjust(point_arr, graph, arr_len, adjust_func);
 `t_coordinates	coord_GraphToScreen(t_coordinates coord, t_graph graph);`
 
 Translates graph coordinates to screen coordinates(in pixels);
+
 **Returns:** t_coordinate of the translated point
 
 ```
@@ -125,6 +127,7 @@ for (int i = 0; i < arr_len, i++)
 `t_coordinates	coord_ScreenToGraph(t_coordinates coord, t_graph graph);`
 
 Translates screen coordinates(in pixels) to graph coordinates;
+
 **Returns:** t_coordinate of the translated point
 
 ```
@@ -145,6 +148,7 @@ for (int i = 0; i < arr_len, i++)
 `bool			in_point(int x, int y, t_point point);`
 
 Finds whether a position lies within a point
+
 **Returns:** true if position is within a point, otherwise false
 
 ```
