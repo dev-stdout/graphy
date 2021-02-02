@@ -1,14 +1,12 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   utils.c                                            :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: home <home@student.42.fr>                  +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/10/31 04:54:57 by home              #+#    #+#             */
-/*   Updated: 2020/10/31 05:10:29 by home             ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
+/**
+ * @file graphy.h
+ *
+ * @authors MrColour FlavorlessQuark
+ *
+ * @version 1.0
+ *
+ * @brief This file contains various utilities functions
+ */
 
 # include "graphy.h"
 

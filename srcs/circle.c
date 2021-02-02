@@ -1,16 +1,12 @@
-
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   circle.c                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: home <home@student.42.fr>                  +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/08/01 21:39:01 by home              #+#    #+#             */
-/*   Updated: 2020/08/01 22:06:10 by home             ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
+/**
+ * @file graphy.h
+ *
+ * @authors MrColour
+ *
+ * @version 1.0
+ *
+ * @brief This file contains the code necessary to display points as circles
+ */
 #include "graphy.h"
 
 static int	square_distance(int x, int y, int to_x, int to_y)

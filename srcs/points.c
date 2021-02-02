@@ -1,14 +1,13 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   points.c                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: home <home@student.42.fr>                  +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/10/30 22:04:33 by home              #+#    #+#             */
-/*   Updated: 2020/10/31 05:11:57 by home             ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
+/**
+ * @file points.c
+ *
+ * @authors FlavorlessQuark
+ *
+ * @version 1.0
+ *
+ * @brief This file contains various scaling functions
+ * so that points may be displayed appropriately on a graph
+ */
 
 # include "graphy.h"
 

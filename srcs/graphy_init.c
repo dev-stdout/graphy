@@ -1,14 +1,12 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   graphy_init.c                                      :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: home <home@student.42.fr>                  +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/10/31 05:09:53 by home              #+#    #+#             */
-/*   Updated: 2020/10/31 05:10:01 by home             ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
+/**
+ * @file graphy_init.h
+ *
+ * @authors FlavorlessQuark
+ *
+ * @version 1.0
+ *
+ * @brief This file is used to initialize a template graph
+ */
 
 # include "graphy.h"
 
