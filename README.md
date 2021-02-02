@@ -83,6 +83,7 @@ points_create(point_arr, arr_len, some_data, sizeof(*some_data), data_to_point_f
 `void			points_adjust(t_point *points, t_graph graph, int amount, t_coordinates (*func)(t_coordinates, t_graph));`
 
 Adjusts an array of t_point to the given t_graph according to the return value of `func`
+**Returns:** Void
 
 ```
 t_point *point_arr;
